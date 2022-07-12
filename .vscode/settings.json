@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "php.validate.run": "onType",
+  "workbench.settings.openDefaultSettings": true,
+  "php.suggest.basic": false,
+  "css.format.enable": true
+}
